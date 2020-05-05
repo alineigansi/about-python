@@ -1,4 +1,4 @@
-# brincando_com_strings_001
+# Python_syntax_and_semantics
 Conceitos básicos de indexação no Python, incluindo imprimir uma string de trás para frente, contagem de elementos e indexação negativa.
 
 As strings são usadas em Python para registrar informações de texto, como nomes ou frases. As strings em Python são na verdade uma sequência, o que basicamente significa que o Python acompanha cada elemento da string como uma sequência de caracteres. Por exemplo, Python entende a string "hello" como uma sequência de letras em uma ordem específica. Isso significa que poderemos usar a indexação para pegar letras particulares (como a primeira letra ou a última letra).
