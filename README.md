@@ -1,6 +1,6 @@
-# Python_syntax_and_semantics
+# Python syntax, first programs and relevant tips.
 
-STRINGS
+### STRINGS
 
 Trabalhando com strings no Python: como imprimir uma string de trás para frente, contagem de elementos e indexação negativa.
 
@@ -11,7 +11,7 @@ Dizer que as strings são uma sequência significa que o Python pode usar índic
 Nós também podemos usar a função len() para verificar o comprimento de uma string.
 
 
-CONVERSÃO DE TIPOS
+### CONVERSÃO DE TIPOS
 
 int()
 float()
