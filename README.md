@@ -17,4 +17,7 @@ int()
 float()
 str()
 
+### CRIANDO CLASSES EM PYTHON (orientação a objetos com Python) 
 
+Para criar uma classe em Python usamos a palavra reservada class, seguida do nome da classe e dois pontos.
+Para criar um método usamos a palavra reservada def. O construtor é um método __init__ . O parâmetro self é obrigatório e os demais são definidor por nós. O corpo do método deve ser identado. Podemos definir quantos métodos precisarmos.
