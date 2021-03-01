@@ -7,4 +7,3 @@ Type "help", "copyright", "credits" or "license()" for more information.
 Iniciando o sistema....
 >>> print('O valor inicial da variável é: '+str(z))
 O valor inicial da variável é: 4.125
->>> 
